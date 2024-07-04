@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 🔭I’m currently pursuing Computer Science and Engineering<br>
-🌱I'm currently learning Microsoft Azure<br> 
-💻Portfolio https://rsaraa.netlify.app/<br>
+<!--🌱I'm currently learning Microsoft Azure<br> -->
+👨‍💻Portfolio https://rsaraa.netlify.app/<br>
 📫Reach me saraaramakrishnan@gmail.com
 
 
@@ -36,3 +36,7 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=rsaraa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 📊 Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/_saraa_r_?theme=dark&font=Patrick%20Hand&ext=heatmap)
+
